@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello.  I am an engineer, and I occasionally build things here.
 
 <!--
 **gclawes/gclawes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
